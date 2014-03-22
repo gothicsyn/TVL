@@ -19,6 +19,6 @@ Copyright Devils Inc Studios 2013
 Information
 -------------
 
-The game is/will be built with Unity3d as its engine core and then built around suing C# as it offers a more
+The game is/will be built with Unity3d as its engine core and then built around using C# as it offers a more
 flexible alternative to the native javascript that comes unity. Most of the scripts are written using monodevlop
-and unity 4.2.
+and unity 4.2
