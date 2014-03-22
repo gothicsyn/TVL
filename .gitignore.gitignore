@@ -1,0 +1,8 @@
+Assets/Standard Assets/
+Assets/Terrain Assets/
+Assets/*.meta
+*.meta
+Builds/
+Library/
+*.unitypackage
+*.asset
